@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Learning\DllPractice\bin\Debug\DllPractice.exe.config
+C:\Users\HP\Desktop\Learning\DllPractice\bin\Debug\DllPractice.exe
+C:\Users\HP\Desktop\Learning\DllPractice\bin\Debug\DllPractice.pdb
+C:\Users\HP\Desktop\Learning\DllPractice\obj\Debug\DllPractice.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Learning\DllPractice\obj\Debug\DllPractice.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Learning\DllPractice\obj\Debug\DllPractice.exe
+C:\Users\HP\Desktop\Learning\DllPractice\obj\Debug\DllPractice.pdb
+C:\Users\HP\Desktop\Learning\DllPractice\bin\Debug\Honor.dll
+C:\Users\HP\Desktop\Learning\DllPractice\bin\Debug\Honor.pdb
+C:\Users\HP\Desktop\Learning\DllPractice\obj\Debug\DllPractice.csproj.CopyComplete

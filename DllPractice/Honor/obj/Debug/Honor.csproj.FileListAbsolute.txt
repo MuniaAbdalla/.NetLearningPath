@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\Learning\Honor\bin\Debug\Honor.dll
+C:\Users\HP\Desktop\Learning\Honor\bin\Debug\Honor.pdb
+C:\Users\HP\Desktop\Learning\Honor\obj\Debug\Honor.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Learning\Honor\obj\Debug\Honor.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Learning\Honor\obj\Debug\Honor.dll
+C:\Users\HP\Desktop\Learning\Honor\obj\Debug\Honor.pdb
